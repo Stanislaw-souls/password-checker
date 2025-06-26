@@ -24,3 +24,4 @@ Użytkownik wpisuje hasło w polu tekstowym, a program ocenia jego jakość i wy
 ---
 ## 💡 Autor:
 Stanisław Bokszczanin
+https://www.linkedin.com/in/stanisław-bokszczanin-879370360/
